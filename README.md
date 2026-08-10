@@ -364,13 +364,14 @@ This project is for **educational purposes only** and should not be used for act
 
 ---
 
-## 👤 Author
+## 👤 Authors
+This project was co-developed as a team project.
 
-**Krishna Arora**
-- 🚀 Final Year BTech IT Student | Backend + AI Systems
-- 💡 Focus: Distributed Systems, Automation, AI Integration
+**Krishna Arora** ( Original repository ) 
 - GitHub: [@krishtech11](https://github.com/krishtech11)
-- LinkedIn: [Krishna Arora](https://linkedin.com/in/krishna-arora-83b87a26b/)
-- Email: krishnaarora747@gmail.com
-
+**Priyanshu Upreti**
+- Github: [@priyanshuR9] (https://github.com/PriyanshuR9)
+- 🚀 Final Year BTech IT Students | Backend + AI Systems
+- 💡 Focus: Distributed Systems, Automation, AI Integration
+- Email: krishnaarora747@gmail.com , priyanshuupreti755@gmail.com
 ---
